@@ -49,7 +49,7 @@
     }
     //end
     
-    const countDown = new Date("02/17/2022").getTime(),
+    const countDown = new Date("04/17/2022").getTime(),
     
         x = setInterval(function() {    
   
